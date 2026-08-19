@@ -165,7 +165,7 @@ Shows employee turnover changes over working years.
 
 Displays workforce distribution across departments.
 
-![HR Analytics Dashboard Page 2](images/page2.png)
+
 
 ---
 
@@ -266,6 +266,9 @@ hr-analytics-powerbi-dashboard/
 ---
 
 # 👤 About Me
+📩 Contact: [govharorucova@outlook.com] 🌐 GitHub: [https://github.com/GovharOrujova]
+
+[https://www.linkedin.com/in/govhar-orujova-64333b369/]
 
 
 📩 Contact: [govharorucova@outlook.com] 🌐 GitHub: [https://github.com/GovharOrujova]
