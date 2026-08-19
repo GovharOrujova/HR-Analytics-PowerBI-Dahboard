@@ -76,52 +76,9 @@ Dashboard visuals include:
 
 # 📊 Outputs
 
-## 📌 Page 1 — HR Analytics Dashboard
-
-**Employee Retention & Root Cause Analysis**
+# 📌 Page 1 — Attrition Analysis Dashboard
 ![HR Analytics Dashboard Page 1](Page1.png)
 
-
-This page provides an overview of employee satisfaction and possible factors influencing retention.
-
-### Main KPIs:
-
-* Average Job Satisfaction
-* Average Work-Life Balance
-* Average Monthly Income
-* Average Years Since Last Promotion
-
-### Visual Analysis:
-
-### ⚖️ Work-Life Balance by Attrition
-
-Analyzes whether work-life balance differences are connected with employee turnover.
-
-### ⏰ Employees by Overtime Status
-
-Shows employee distribution based on overtime work and its relationship with attrition.
-
-### 📈 Years Since Last Promotion by Employee
-
-Analyzes whether promotion delays affect employee retention.
-
-### 💰 Salary by Monthly Income
-
-Shows employee income distribution.
-
-### ⭐ Job Satisfaction by Employee
-
-Compares satisfaction levels between employees who stayed and employees who left.
-
-### 👤 Attrition by Gender
-
-Analyzes turnover differences across gender groups.
-
-
----
-
-# 📌 Page 2 — Attrition Analysis Dashboard
-![HR Analytics Dashboard Page 2](page2.png)
 
 This page focuses on identifying the main causes and patterns behind employee attrition.
 
@@ -167,6 +124,50 @@ Displays workforce distribution across departments.
 
 
 ---
+# 📌 Page 2 — Employee Retention & Root Cause Analysis
+
+![HR Analytics Dashboard Page 2](page2.png)
+
+
+This page provides an overview of employee satisfaction and possible factors influencing retention.
+
+### Main KPIs:
+
+* Average Job Satisfaction
+* Average Work-Life Balance
+* Average Monthly Income
+* Average Years Since Last Promotion
+
+### Visual Analysis:
+
+### ⚖️ Work-Life Balance by Attrition
+
+Analyzes whether work-life balance differences are connected with employee turnover.
+
+### ⏰ Employees by Overtime Status
+
+Shows employee distribution based on overtime work and its relationship with attrition.
+
+### 📈 Years Since Last Promotion by Employee
+
+Analyzes whether promotion delays affect employee retention.
+
+### 💰 Salary by Monthly Income
+
+Shows employee income distribution.
+
+### ⭐ Job Satisfaction by Employee
+
+Compares satisfaction levels between employees who stayed and employees who left.
+
+### 👤 Attrition by Gender
+
+Analyzes turnover differences across gender groups.
+
+
+---
+
+
 
 # 📌 Dataset Summary
 
@@ -270,6 +271,5 @@ hr-analytics-powerbi-dashboard/
 [https://www.linkedin.com/in/govhar-orujova-64333b369/]
 
 
-📩 Contact: [govharorucova@outlook.com] 🌐 GitHub: [https://github.com/GovharOrujova]
 
 [https://www.linkedin.com/in/govhar-orujova-64333b369/]
