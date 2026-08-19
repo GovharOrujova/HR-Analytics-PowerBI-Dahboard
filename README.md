@@ -122,7 +122,7 @@ Analyzes turnover differences across gender groups.
 ---
 
 # 📌 Page 2 — Attrition Analysis Dashboard
-![HR Analytics Dashboard Page 1](page2.png)
+![HR Analytics Dashboard Page 2](page2.png)
 
 This page focuses on identifying the main causes and patterns behind employee attrition.
 
