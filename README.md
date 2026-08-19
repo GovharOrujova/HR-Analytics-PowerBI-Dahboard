@@ -117,7 +117,7 @@ Compares satisfaction levels between employees who stayed and employees who left
 
 Analyzes turnover differences across gender groups.
 
-![HR Analytics Dashboard Page 1](images/page1.png)
+![HR Analytics Dashboard Page 1](Page1.png)
 
 ---
 
