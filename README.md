@@ -272,4 +272,3 @@ hr-analytics-powerbi-dashboard/
 
 
 
-[https://www.linkedin.com/in/govhar-orujova-64333b369/]
