@@ -80,7 +80,8 @@ Dashboard visuals include:
 ## 📌 Page 1 — HR Analytics Dashboard
 
 **Employee Retention & Root Cause Analysis**
-![HR Analytics Dashboard Page 1](/page1.png)
+![HR Analytics Dashboard Page 1](Page1.png)
+
 
 This page provides an overview of employee satisfaction and possible factors influencing retention.
 
@@ -117,7 +118,6 @@ Compares satisfaction levels between employees who stayed and employees who left
 
 Analyzes turnover differences across gender groups.
 
-![HR Analytics Dashboard Page 1](Page1.png)
 
 ---
 
